@@ -3,7 +3,7 @@ package twitter
 import (
 	"net/http"
 
-	"github.com/dghubble/sling"
+	"github.com/keylockerbv/sling"
 )
 
 // TimelineService provides methods for accessing Twitter status timeline

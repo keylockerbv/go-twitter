@@ -3,7 +3,7 @@ package twitter
 import (
 	"net/http"
 
-	"github.com/dghubble/sling"
+	"github.com/keylockerbv/sling"
 )
 
 // FollowerIDs is a cursored collection of follower ids.

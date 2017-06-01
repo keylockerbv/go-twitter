@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/dghubble/sling"
+	"github.com/keylockerbv/sling"
 )
 
 // Tweet represents a Twitter Tweet, previously called a status.
